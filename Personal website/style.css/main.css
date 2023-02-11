@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,200;0,500;1,700&display=swap");
+
+#main_text {
+  color: black;
+  font-size: 50px;
+  font-family: "Roboto Mono", monospace;
+  word-spacing: -10px;
+  letter-spacing: -3px;
+  cursor: default;
+}
+
+#main_text2 {
+  color: rgb(61, 0, 0);
+  font-size: 23px;
+  font-family: "Roboto Mono", monospace;
+  word-spacing: -1px;
+  letter-spacing: -2px;
+  line-height: 30px;
+  cursor: default;
+}
+
+#telega {
+  color: #fff;
+  background-color: rgb(36, 34, 34);
+}
+
+.rounded-img {
+  width: 50%;
+  border-radius: 50%;
+  box-shadow: 0 0 17px rgba(0, 0, 0, 0.7);
+  padding: 0.07em;
+  margin-top: -20px;
+  margin-bottom: 0.7em;
+}
+
+.rounded-img0 {
+  width: 35%;
+  border-radius: 0 50%;
+  margin-left: 10px;
+  box-shadow: 0 0px 7px gray;
+}
+
+
